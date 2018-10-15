@@ -11,6 +11,6 @@ namespace Blogezy.Models
 
         public string HeaderInfo { get; set; }
 
-
+        public int MyProperty { get; set; }
     }
 }
